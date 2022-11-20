@@ -1,0 +1,11 @@
+# ninja log v5
+1	691	6906642303991732	CMakeFiles/DoxygenAssignment.dir/main.cpp.obj	2b37acb7046b54a7
+696	951	6906642306521767	DoxygenAssignment.exe	37c868a1f2dc0e82
+4	284	6906656701058880	CMakeFiles/DoxygenAssignment.dir/subtractions.cpp.obj	f65597d7cf82d691
+14	301	6906656701128860	CMakeFiles/DoxygenAssignment.dir/multiplication.cpp.obj	42a684a10f04e6e5
+292	449	6906656702698873	CMakeFiles/DoxygenAssignment.dir/addtions.cpp.obj	a4af7e9012cd2f76
+22	987	6906656708188888	CMakeFiles/DoxygenAssignment.dir/main.cpp.obj	2b37acb7046b54a7
+988	1177	6906656710038824	DoxygenAssignment.exe	c837fcb318db2e65
+3	125	6906658554136157	CMakeFiles/DoxygenAssignment.dir/subtractions.cpp.obj	f65597d7cf82d691
+11	734	6906658560236155	CMakeFiles/DoxygenAssignment.dir/main.cpp.obj	2b37acb7046b54a7
+735	1051	6906658562926175	DoxygenAssignment.exe	c837fcb318db2e65

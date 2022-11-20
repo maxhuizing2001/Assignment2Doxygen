@@ -1,0 +1,3 @@
+C:/Users/maxhu/OneDrive/School/jaar2/Kwartiel1/gitub/Assignment2Doxygen/DoxygenAssignment/cmake-build-debug/CMakeFiles/DoxygenAssignment.dir
+C:/Users/maxhu/OneDrive/School/jaar2/Kwartiel1/gitub/Assignment2Doxygen/DoxygenAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxhu/OneDrive/School/jaar2/Kwartiel1/gitub/Assignment2Doxygen/DoxygenAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
