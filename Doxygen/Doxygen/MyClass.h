@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// @author    Max Huizing
+/// @version   1
+/// @since     18-11-2022
+
+
 /// This is the brief description.
 ///
 /// This is the *detailed* description.
@@ -27,7 +32,7 @@ namespace Doxygen
         /// @see anothermemberfunction() anothermemberfunction2()
         /// @note A little side note
         /// @attention A little more important than a note
-        /// @waring A warning is super important
+        /// @warning A warning is super important
         void memberfunction(int a, int b);
 
         void anothermemberfunction();
